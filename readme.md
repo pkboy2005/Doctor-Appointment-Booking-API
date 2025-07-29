@@ -105,13 +105,6 @@ doctor-booking-api/
           "patient_id": "6",
           "date": "2025-07-30",
           "time": "13:00"
-        },
-        {
-          "id": "1753715494345",
-          "doctor_id": "2",
-          "patient_id": "6",
-          "date": "2025-07-30",
-          "time": "13:00"
         }
       ]
     }
@@ -129,13 +122,6 @@ doctor-booking-api/
       "data": [
         {
           "id": "1753715284635",
-          "doctor_id": "2",
-          "patient_id": "6",
-          "date": "2025-07-30",
-          "time": "13:00"
-        },
-        {
-          "id": "1753715494345",
           "doctor_id": "2",
           "patient_id": "6",
           "date": "2025-07-30",
